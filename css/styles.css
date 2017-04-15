@@ -4797,6 +4797,14 @@ a:visited {
     background-image: url("http://imgur.com/cDtNGGi.jpg7");
 }
 
+#travis-cole-cover {
+    background-image: url("http://i.imgur.com/570Os0f.jpg");
+}
+
+#travis-cole-card {
+    background-image: url("http://i.imgur.com/RCw52wo.png");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
